@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_request_reference_po_request_reference_po,request_reference_po.request_reference_po,model_request_reference_po_request_reference_po,base.group_user,1,1,1,1
